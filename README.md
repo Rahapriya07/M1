@@ -1,5 +1,7 @@
 
 # EX-01-Datatypes-Operators
+## Name:Raha Priya Dharshini M
+## Reg no.:212224240124
 ## AIM:
 Write a C program to find the ASCII value of a given character.
 
@@ -30,7 +32,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![Screenshot 2025-04-30 214157](https://github.com/user-attachments/assets/da2ba814-38c1-4b75-afad-4dd98cf19ba1)
+![Screenshot 2025-05-22 230609](https://github.com/user-attachments/assets/5f27c763-0335-4ec0-9bc7-c08e1896c3b2)
+
 
 
 ## RESULT:
@@ -91,7 +94,8 @@ int main() {
 
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/50f0b8dd-7f1c-4cb8-9fab-dd0b3510ecfc)
+![Screenshot 2025-05-22 231609](https://github.com/user-attachments/assets/6d752a40-8d83-449f-8043-4838296de451)
+
 
 # RESULT:
 Thus the program to read any month and get the number of days has been executed successfully.
@@ -132,7 +136,8 @@ int main()
 ```
 
 ## OUTPUT:
-![Screenshot 2025-04-30 215845](https://github.com/user-attachments/assets/8484d3ed-9290-41c7-852b-74bafe83b254)
+![Screenshot 2025-05-22 232143](https://github.com/user-attachments/assets/ede221dd-f00f-4c25-817d-7981bac305a8)
+
 
 
 
@@ -176,7 +181,8 @@ int main()
 ```
 
 ## OUTPUT:
-![Screenshot 2025-04-30 220414](https://github.com/user-attachments/assets/9131a9a1-be42-40c8-9977-bfcbc2bf031c)
+![Screenshot 2025-05-22 232347](https://github.com/user-attachments/assets/f466befd-8b80-4011-855d-06d079dfa7eb)
+
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 0 or positive or negative using else if statement has been executed successfully
@@ -224,7 +230,8 @@ int main()
 ```
 
 ## OUTPUT:
-![Screenshot 2025-04-30 221838](https://github.com/user-attachments/assets/a8a6b5cf-15dc-493e-a945-eac360fffcfd)
+![Screenshot 2025-05-22 232636](https://github.com/user-attachments/assets/4a0fbed3-ccf7-443c-8913-a921c6695302)
+
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage and average based on predefined grading logic.
