@@ -121,22 +121,20 @@ Write a C program to check if the given number (For ex: 50) is even number or no
 
 ## PROGRAM:
 ```#include <stdio.h>
-int main()
-{
-    int a;
-    scanf("%d",&a);
-    if (a%2 == 0){
-        printf("The number is Even");
-        
-    }else{
-        printf("The number is not Even Number");
-    }
+
+int main() {
+    int num = 50;
+
+    (num % 2 == 0) ? printf("%d is even.\n", num) : printf("%d is odd.\n", num);
+
     return 0;
 }
+
 ```
 
 ## OUTPUT:
-![Screenshot 2025-05-22 232143](https://github.com/user-attachments/assets/ede221dd-f00f-4c25-817d-7981bac305a8)
+![Screenshot 2025-05-24 133427](https://github.com/user-attachments/assets/91d4eade-74e2-4a2f-8b64-d9f878a465b5)
+
 
 
 
